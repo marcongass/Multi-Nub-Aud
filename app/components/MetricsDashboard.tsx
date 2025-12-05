@@ -205,6 +205,7 @@ function ProgressBar({
     </div>
   );
 }
+///adsasda
 
 // Métricas de ejemplo
 const complianceMetrics = {
